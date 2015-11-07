@@ -1,0 +1,50 @@
+/**
+ * @name list.scss
+ * @author
+ * @description Main modules entry point file
+ */
+
+.booklist {
+	min-height: $layout-height - $layout-header-height;
+}
+
+.book {
+	border-bottom: 1px solid #F0F0F0;
+	position: relative;
+	color: $color-primary;
+	display: inline-block;
+	padding: 17px 17px;
+	height: 80px;
+	width: $layout-width - 30px;
+	cursor: pointer;
+}
+
+.book .thumb {
+	float: left;
+	margin-right: 20px;
+	height: 80px;
+	width: 54px;
+	text-align: center;
+	background-color: #F5F5F5;
+	border: 2px solid #F5F5F5;
+}
+
+.book .title {
+	font-weight: 500;
+	display: block;
+	margin-right: 25px;
+}
+
+.book .detail {
+	display: block;
+	color: $color-secondary;
+	font-size: $font-small;
+	margin-right: 25px;
+	margin-top: 4px;
+}
+
+.book .icon {
+	position: absolute;
+	right: 10px;
+	top: 44px;
+}

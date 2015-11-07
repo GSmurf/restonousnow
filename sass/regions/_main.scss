@@ -1,0 +1,15 @@
+/**
+ * @name main.scss
+ * @author
+ * @description Main view style
+ */
+
+#main {
+	position: absolute;
+	background-color: $color-third;
+	left: 0;
+	right: 0;
+	top: $layout-header-height;
+	bottom: 0;
+	overflow: hidden;
+}

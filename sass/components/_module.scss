@@ -1,0 +1,22 @@
+/**
+ * @name module.scss
+ * @author
+ * @description Module components scss class
+ */
+
+.module {
+	padding: 15px;
+	background-color: $color-background;
+	min-height: $layout-height - $layout-header-height;
+}
+
+.module .title {
+	background-color: $color-third;
+	color: #FFF;
+	position: relative;
+	left: -15px;
+	top: -15px;
+	display: inline-block;
+	padding: 30px 15px;
+	width: $layout-width - 30px;
+}

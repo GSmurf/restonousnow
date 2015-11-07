@@ -1,0 +1,16 @@
+/**
+ * @name splash.scss
+ * @author
+ * @description Splash components scss classes
+ */
+
+#splash {
+	position: absolute;
+	background-color: $color-third;
+	color: #FFF;
+	left: 0; right: 0;
+	bottom: 0; top: 0;
+	z-index: 99999;
+	text-align: center;
+	padding: 160px 15px 10px 15px;
+}

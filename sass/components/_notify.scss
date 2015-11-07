@@ -1,0 +1,45 @@
+/**
+ * @name notify.scss
+ * @author
+ * @description Notify components scss classes
+ */
+
+.notify {
+	padding: 20px 15px;
+	margin-bottom: 0;
+	border-top: 1px solid transparent;
+	position: absolute;
+	z-index: 9998;
+	left: 0;
+	right: 0;
+	bottom: -40px;
+	opacity: 0;
+	visibility: none;
+	transition: all 200ms;
+}
+
+.notify-danger {
+	background-color: #333;
+	color: #CF6C6C;
+}
+
+.notify-warning {
+	color: #C5A562;
+	background-color: #333;
+}
+
+.notify-info {
+	background-color: #333;
+	color: #C8D1D7;
+}
+
+.notify-success {
+	background-color: #333;
+	color: #83A965;
+}
+
+.notify.show {
+	bottom: 0;
+	opacity: 1;
+	visibility: visible;
+}

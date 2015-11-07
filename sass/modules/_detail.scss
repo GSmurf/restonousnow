@@ -1,0 +1,42 @@
+/**
+ * @name detail.scss
+ * @author
+ * @description Main modules entry point file
+ */
+
+.detail {}
+
+.detail .img {
+	width: 136px;
+	height: 200px;
+	display: inline-block;
+	margin-bottom: 12px;
+	border: 2px solid #F5F5F5;
+	text-align: center;
+	background-color: #F5F5F5;
+}
+
+.detail .info {
+	float: right;
+	width: $layout-width - 140px - 30px - 15px;
+	display: inline-block;
+}
+
+.detail .description {
+	margin-top: 20px;
+}
+
+.detail .author {
+	font-weight: 900;
+	display: block;
+}
+
+.detail .published {
+	margin-top: 5px;
+	display: block;
+}
+
+.detail .rating {
+	margin-top: 5px;
+	display: block;
+}

@@ -1,0 +1,14 @@
+/**
+ * @name fonts.scss
+ * @author
+ * @description Scss to define the @fontface of the application
+ */
+
+@font-face {
+	font-family: 'icomoon';
+	src:url('fonts/icomoon.woff?-o0s24y') format('woff'),
+		url('fonts/icomoon.ttf?-o0s24y') format('truetype'),
+		url('fonts/icomoon.svg?-o0s24y#icomoon') format('svg');
+	font-weight: normal;
+	font-style: normal;
+}

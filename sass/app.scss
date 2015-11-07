@@ -1,0 +1,11 @@
+/**
+ * @name app.scss
+ * @author
+ * @description Main sass entry point
+ */
+
+@import 'core/core';
+@import 'regions/regions';
+@import 'views/views';
+@import 'components/components';
+@import 'modules/modules';

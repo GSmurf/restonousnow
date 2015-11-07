@@ -1,0 +1,39 @@
+/**
+ * @name vars.scss
+ * @author
+ * @description Variable files
+ */
+
+/* Defines the font variables */
+$font-stack: Arial, sans-serif;
+$font-header: Arial, sans-serif;
+
+/* Defines the font sizes */
+$font-size: 16px;
+$font-small: 13px;
+$font-icon: 20px;
+$font-line-height: 1.6em;
+
+/* Defines the color variables */
+$color-primary: #565464;
+$color-secondary: #676767;
+$color-background: #FFF;
+$color-background-secondary: #EEE;
+$color-third: #5B7B84;
+
+/* Defines the constrat color variables */
+$color-contrast: #DDD;
+$color-contrast-background: #444;
+
+/* Defines the button variables */
+$btn-color: #FFF;
+$btn-background: #5B7B84;
+
+/* Defines the layout variables */
+$layout-width: 320px;
+$layout-height: 480px;
+$layout-header-height: 40px;
+$layout-menu-width: 246px;
+
+/* Defines the layer zindex values */
+$zindex-menu: 15;

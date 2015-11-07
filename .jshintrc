@@ -1,0 +1,8 @@
+{
+	"quotmark" : "single",
+	"eqeqeq": true,
+	"unused": true,
+	"browserify": true,
+	"devel": true,
+	"-W030": true
+}

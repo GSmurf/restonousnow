@@ -1,0 +1,92 @@
+[
+	{
+		"id": 1,
+		"title": "The Stranger",
+		"author" : "Albert Camus",
+		"image": "1.jpg",
+		"thumb": "1-thmb.jpg",
+		"rating": 3.92,
+		"published" : "1941",
+		"description" : "Through the story of an ordinary man unwittingly drawn into a senseless murder on an Algerian beach, Camus explored what he termed 'the nakedness of man faced with the absurd.'' First published in English in 1946; now in a new translation by Matthew Ward."
+	},
+	{
+		"id": 2,
+		"title": "To Kill a Mockingbird",
+		"author" : "Harper Lee",
+		"image": "2.jpg",
+		"thumb": "2-thmb.jpg",
+		"rating": 4.23,
+		"published" : "1960",
+		"description" : "The unforgettable novel of a childhood in a sleepy Southern town and the crisis of conscience that rocked it, To Kill A Mockingbird became both an instant bestseller and a critical success when it was first published in 1960. It went on to win the Pulitzer Prize in 1961 and was later made into an Academy Award-winning film, also a classic."
+	},
+	{
+		"id": 3,
+		"title": "1984",
+		"author" : "George Orwell",
+		"image": "3.jpg",
+		"thumb": "3-thmb.jpg",
+		"rating": 4.12,
+		"published" : "1949",
+		"description" : "While 1984 has come and gone, Orwel3l's narrative is more timely that ever. 1984 presents a 'negative utopia', that is at once a startling and haunting vision of the world — so powerful that it's completely convincing from start to finish."
+	},
+	{
+		"id": 4,
+		"title": "The Lord of the Rings",
+		"author" : "J.R.R. Tolkien",
+		"image": "4.jpg",
+		"thumb": "4-thmb.jpg",
+		"rating": 4.44,
+		"published" : "1954",
+		"description" : "A fantastic starter set for new Tolkien fans or readers interested in rediscovering the magic of Middle-earth, this three-volume box set features paperback editions of the complete trilogy -- The Fellowship of the Ring, The Two Towers, and The Return of the King -- each with art from the New Line Productions feature film on the cover."
+	},
+	{
+		"id": 5,
+		"title": "The Catcher in the Rye",
+		"author" : "J.D. Salinger",
+		"image": "5.jpg",
+		"thumb": "5-thmb.jpg",
+		"rating": 3.77,
+		"published" : "1951",
+		"description" : "Since his debut in 1951 as The Catcher in the Rye, Holden Caulfield has been synonymous with 'cynical adolescent.'' Holden narrates the story of a couple of days in his sixteen-year-old life, just after he's been expelled from prep school, in a slang that sounds edgy even today and keeps this novel on banned book lists."
+	},
+	{
+		"id": 6,
+		"title": "The Little Prince",
+		"author" : "Antoine de Saint-Exupéry",
+		"image": "6.jpg",
+		"thumb": "6-thmb.jpg",
+		"rating": 4.23,
+		"published" : "1940",
+		"description" : "Moral allegory and spiritual autobiography, The Little Prince is the most translated book in the French language. With a timeless charm it tells the story of a little boy who leaves the safety of his own tiny planet to travel the universe, learning the vagaries of adult behaviour through a series of extraordinary encounters."
+	},
+	{
+		"id": 7,
+		"title": "Fahrenheit 451",
+		"author" : "Ray Bradbury",
+		"image": "7.jpg",
+		"thumb": "7-thmb.jpg",
+		"rating": 3.95,
+		"published" : "1953",
+		"description" : "The terrifyingly prophetic novel of a post-literate future. Guy Montag is a fireman. His job is to burn books, which are forbidden, being the source of all discord and unhappiness. Even so, Montag is unhappy; there is discord in his marriage. Are books hidden in his house? The Mechanical Hound of the Fire Department, armed with a lethal hypodermic, escorted by helicopters"
+	},
+	{
+		"id": 8,
+		"title": "Brave New World",
+		"author" : "Aldous Huxley",
+		"image": "8.jpg",
+		"thumb": "8-thmb.jpg",
+		"rating": 3.93,
+		"published" : "1932",
+		"description" : "Far in the future, the World Controllers have created the ideal society. Through clever use of genetic engineering, brainwashing and recreational sex and drugs, all its members are happy consumers. Bernard Marx seems alone harbouring an ill-defined longing to break free. A visit to one of the few remaining Savage Reservations, where the old, imperfect life still continues,"
+	},
+	{
+		"id": 9,
+		"title": "One Hundred Years of Solitude",
+		"author" : "Gabriel Garcí­a Márquez",
+		"image": "9.jpg",
+		"thumb": "9-thmb.jpg",
+		"rating": 4.00,
+		"published" : "1967",
+		"description" : "One of the 20th century's enduring works, One Hundred Years of Solitude is a widely beloved and acclaimed novel known throughout the world, and the ultimate achievement of a Nobel Prize winning career. The novel tells the story of the rise and fall of the mythical town of Macondo through the history of the family. It is a rich and brilliant chronicle of life and death, and"
+	}
+]

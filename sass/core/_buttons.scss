@@ -1,0 +1,20 @@
+/**
+ * @name buttons.scss
+ * @author
+ * @description Buttons elements style
+ */
+
+button:focus,
+button:active {
+	outline: 0;
+}
+
+.btn {
+	padding: 10px 19px;
+	font-size: $font-size;
+	border: none;
+	outline: 0;
+	color: $btn-color;
+	background-color: $btn-background;
+	cursor: pointer;
+}

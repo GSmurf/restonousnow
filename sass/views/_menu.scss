@@ -1,0 +1,59 @@
+/**
+ * @name menu.scss
+ * @author
+ * @description Menu view style
+ */
+
+#menu {
+	position: absolute;
+	background-color: transparent;
+	color: $color-secondary;
+	top: 0;
+	left: 0;
+	width: $layout-menu-width;
+	bottom: 0;
+	z-index: $zindex-menu;
+	overflow: hidden;
+	transform: translate3d(-$layout-menu-width,0,0);
+	-webkit-transform: translate3d(-$layout-menu-width,0,0);
+}
+
+#menu.active {
+	width: $layout-width;
+	transition: 0.2s transform;
+	transform: translate3d(0,0,0);
+	-webkit-transition: 0.2s -webkit-transform;
+	-webkit-transform: translate3d(0,0,0);
+}
+
+#menu > .bar {
+	position: absolute;
+	background-color: $color-background-secondary;
+	color: $color-secondary;
+	top: $layout-header-height;
+	left: 0;
+	width: $layout-menu-width;
+	bottom: 0;
+	margin: 0;
+	padding: 0;
+	overflow: hidden;
+}
+
+#menu .header {
+	background-color: $color-third;
+	color: #FFF;
+	display: inline-block;
+	font-size: 2.2rem;
+	padding: 30px 15px;
+	width: $layout-menu-width - 30px;
+}
+
+#menu .menuitem {
+	display: inline-block;
+	width: $layout-menu-width - 15px;
+	padding-top: 19px;
+	padding-left: 15px;
+	border-bottom: 1px solid #E3E3E3; 
+	min-height: 35px;
+	cursor: pointer;
+}
